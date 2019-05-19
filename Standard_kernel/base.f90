@@ -98,7 +98,7 @@
     m=rho_0*S/N
     
     k=136000.0d0
-    damping=0.0d0
+    damping=8000.0d0
     eta=1.0
     YieldStress=335.0d0
     E=9.0*k*mu/(3.0*k+mu)
